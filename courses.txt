@@ -1,1 +1,3 @@
 courses
+
+info from the server github
