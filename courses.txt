@@ -1,2 +1,7 @@
 courses
 
+info :
+ML
+AI
+DL
+DONE !
